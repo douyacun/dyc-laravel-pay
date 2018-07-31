@@ -1,0 +1,35 @@
+{
+    "name": "yansongda/laravel-pay",
+    "description": "专注 Alipay 和 WeChat 的 laravel 支付扩展包",
+    "keywords": ["alipay", "wechat", "pay", "laravel", "package"],
+    "support": {
+        "issues": "https://github.com/douyacun/laravel-pay/issues",
+        "source": "https://github.com/douyacun/laravel-pay"
+    },
+    "authors": [
+        {
+            "name": "douyacun",
+            "email": "douyacun@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^5.1",
+        "douyacun/pay": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DYC\\LaravelPay\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "DYC\\LaravelPay\\PayServiceProvider"
+            ],
+            "aliases": {
+                "Pay": "DYC\\LaravelPay\\Facades\\Pay"
+            }
+        }
+    },
+    "license": "MIT"
+}
