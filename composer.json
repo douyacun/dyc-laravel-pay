@@ -1,5 +1,5 @@
 {
-    "name": "yansongda/dyc-laravel-pay",
+    "name": "douyacun/dyc-laravel-pay",
     "description": "专注 Alipay 和 WeChat 的 laravel 支付扩展包",
     "keywords": ["alipay", "wechat", "pay", "laravel", "package"],
     "support": {

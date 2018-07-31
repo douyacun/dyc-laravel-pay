@@ -1,15 +1,4 @@
-<h1 align="center">Pay</h1>
-
-<p align="center">
-<a href="https://scrutinizer-ci.com/g/yansongda/laravel-pay/?branch=master"><img src="https://scrutinizer-ci.com/g/yansongda/laravel-pay/badges/quality-score.png?b=master" alt="Scrutinizer Code Quality"></a>
-<a href="https://scrutinizer-ci.com/g/yansongda/laravel-pay/build-status/master"><img src="https://scrutinizer-ci.com/g/yansongda/laravel-pay/badges/build.png?b=master" alt="Build Status"></a>
-<a href="https://packagist.org/packages/yansongda/laravel-pay"><img src="https://poser.pugx.org/yansongda/laravel-pay/v/stable" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/yansongda/laravel-pay"><img src="https://poser.pugx.org/yansongda/laravel-pay/downloads" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/yansongda/laravel-pay"><img src="https://poser.pugx.org/yansongda/laravel-pay/v/unstable" alt="Latest Unstable Version"></a>
-<a href="https://packagist.org/packages/yansongda/laravel-pay"><img src="https://poser.pugx.org/yansongda/laravel-pay/license" alt="License"></a>
-</p>
-
-该文档为 v2.x 版本，如果您想找 v1.x 版本文档，请点击[https://github.com/yansongda/laravel-pay/tree/v1.0.3](https://github.com/yansongda/laravel-pay/tree/v1.0.3)
+## 声明: 使用的是laravel-pay, 只是因为需要扩展其他接口才复制的
 
 ## 运行环境
 
@@ -100,7 +89,7 @@ $result = Pay::wechat()->mp($order);
 
 ```
 
-具体使用说明请传送至 [https://github.com/yansongda/pay](https://github.com/yansongda/pay)
+具体使用说明请传送至 [https://github.com/douyacun/pay](https://github.com/douyacun/pay)
 
 ## License
 
