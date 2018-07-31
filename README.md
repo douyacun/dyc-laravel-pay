@@ -20,7 +20,7 @@
 ## 安装
 
 ```Shell
-$ composer require yansongda/laravel-pay
+$ composer require douyacun/dyc-laravel-pay
 ```
 
 ### 添加 service provider（optional. if laravel < 5.5 || lumen）
