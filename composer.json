@@ -2,6 +2,7 @@
     "name": "douyacun/dyc-laravel-pay",
     "description": "专注 Alipay 和 WeChat 的 laravel 支付扩展包",
     "keywords": ["alipay", "wechat", "pay", "laravel", "package"],
+    "version": "1.0.4",
     "support": {
         "issues": "https://github.com/douyacun/laravel-pay/issues",
         "source": "https://github.com/douyacun/laravel-pay"
@@ -14,7 +15,7 @@
     ],
     "require": {
         "illuminate/support": "^5.1",
-        "douyacun/dyc-pay": "^1.0.3"
+        "douyacun/dyc-pay": "^1.0.4"
     },
     "autoload": {
         "psr-4": {
